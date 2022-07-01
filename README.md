@@ -5,7 +5,9 @@
 <h2>The famous classic game Pong Ball by JavaScript</h2>
 
 ## Project description
-    Starting my studies in programming with the online school Alura, in my first module of "Beginner Training in Programming" the challenge was to create the classic Pong Ball game from scratch. Using JavaScript on the p5js.org platform, together with the teacher, we created step by step the entire structure of the game, the visual plan, the movement of the ball and racketes, the contact physics, the score, and ambient sound.
+<p margin=10px>
+Starting my studies in programming with the online school Alura, in my first module of "Beginner Training in Programming" the challenge was to create the classic Pong Ball game from scratch. Using JavaScript on the p5js.org platform, together with the teacher, we created step by step the entire structure of the game, the visual plan, the movement of the ball and racketes, the contact physics, the score, and ambient sound.
+</p>
 
 Below the gif with the preview of the final project
 
@@ -14,7 +16,7 @@ Below the gif with the preview of the final project
 </p>
 
 
-    It is also possible to interact with the game, through the link below, when starting the browser, the game will start automatically and you can control your racket using the UP and Down arrows (you may need to click on the game to recognize the commands)
+It is also possible to interact with the game, through the link below, when starting the browser, the game will start automatically and you can control your racket using the UP and Down arrows (you may need to click on the game to recognize the commands)
 
 ### Access link to the final project
 https://editor.p5js.org/DevZilio/full/zKChTT6Py
