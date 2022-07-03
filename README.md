@@ -27,8 +27,7 @@ https://editor.p5js.org/DevZilio/sketches/zKChTT6Py
 
 After finishing this project, I decided to improve and create my own version, in the link below access to the second project made from this one:
 
-(link do github a gerar)
-
+https://github.com/DevZilio/Game_Pong_Ball_2.0.js.git
 
 
 ## Author
